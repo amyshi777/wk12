@@ -171,9 +171,9 @@ button:hover {
 } 
 
 .lb-nav a.lb-next {
-  background: url(/images/arrow_forward_60dp_000000_FILL0_wght400_GRAD0_opsz48.png) right 48% no-repeat;
+  background: url(../forward.png) right 48% no-repeat;
 }
 
 .lb-nav a.lb-prev {
-  background: url(/images/arrow_back_60dp_000000_FILL0_wght400_GRAD0_opsz48.png) right 48% no-repeat;
+  background: url(../background.png) right 48% no-repeat;
 }
